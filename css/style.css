@@ -129,6 +129,7 @@ marquee a{
 
     .header{
         height: 42vh;
+        overflow:hidden;
     }
 
     nav .skew{
